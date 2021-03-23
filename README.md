@@ -1,2 +1,2 @@
-# MDControl
+# VCVDMC
 vcvrack dedicated midi controller
